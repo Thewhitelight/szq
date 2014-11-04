@@ -1,5 +1,5 @@
 szq
 ===
 
-##Repository
-#闲杂文件
+*Repository
+*闲杂文件
