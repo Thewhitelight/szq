@@ -1,0 +1,6 @@
+F:\DataSystemWebService\DataSystemWebService\DataSystemWebService\bin\DataSystemWebService.dll.config
+F:\DataSystemWebService\DataSystemWebService\DataSystemWebService\bin\DataSystemWebService.dll
+F:\DataSystemWebService\DataSystemWebService\DataSystemWebService\bin\DataSystemWebService.pdb
+F:\DataSystemWebService\DataSystemWebService\DataSystemWebService\obj\Debug\DataSystemWebService.csprojResolveAssemblyReference.cache
+F:\DataSystemWebService\DataSystemWebService\DataSystemWebService\obj\Debug\DataSystemWebService.dll
+F:\DataSystemWebService\DataSystemWebService\DataSystemWebService\obj\Debug\DataSystemWebService.pdb
