@@ -8,7 +8,7 @@ namespace DataSystemWebService
     public class DBUtils
     {
         public static SqlConnection sqlcon;
-        public string sqlstr = @"Data Source=.;Initial Catalog=Facility;Integrated Security=True";
+        public string sqlstr = @"Server=10.64.130.88;DataBase=Facility;User Id=sa;Password=sqlserver2008??;";
         public DBUtils()
         {
             if (sqlcon == null)

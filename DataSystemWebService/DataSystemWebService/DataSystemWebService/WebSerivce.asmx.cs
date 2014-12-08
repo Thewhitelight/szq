@@ -14,6 +14,11 @@ namespace DataSystemWebService
     public class Service1 : System.Web.Services.WebService
     {
         DBUtils dbUtils = new DBUtils();
+        [WebMethod]
+        public string HelloWorld()
+        {
+            return "Hello World";
+        }
 
         [WebMethod(Description = "查询所有信息")]
         public string[] selectAllInfo()
