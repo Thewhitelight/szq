@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Manage.master.cs" Inherits="SmartBlog.Manage" %>
+
+<%@ Register src="Controls/AdminLeft.ascx" tagname="AdminLeft" tagprefix="uc1" %>
+
+<%@ Register src="Controls/AdminFoot.ascx" tagname="AdminFoot" tagprefix="uc2" %>
+
+<%@ Register src="Controls/AdminTop.ascx" tagname="AdminTop" tagprefix="uc3" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Images/Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+ 
+    <form id="form1" runat="server">
+ 
+    <table style=" width:100%">
+             <tr >
+         <td colspan="2" class="TopStyle">
+     
+             <uc3:AdminTop ID="AdminTop1" runat="server" />
+     
+             </td>
+         </tr>
+                      <tr >
+         <td colspan="2">
+     
+             
+     
+             </td>
+         </tr>
+        <tr>
+            <td class="AdminLeft">
+                <uc1:AdminLeft ID="AdminLeft1" runat="server" />
+            </td>
+            <td>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+         <tr >
+         <td colspan="2">
+             <uc2:AdminFoot ID="AdminFoot1" runat="server" />
+             </td>
+         </tr>
+    </table>
+   
+    </form>
+   
+</body>
+</html>

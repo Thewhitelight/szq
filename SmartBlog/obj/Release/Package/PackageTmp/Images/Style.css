@@ -1,0 +1,218 @@
+﻿body {
+    background-image: url('triangular.png');
+}
+
+
+
+.AdminLeft {
+    width: 150px;
+}
+
+.copyright {
+    margin: 0 auto;
+    color: #FFFFFF;
+    font-size: small;
+    text-align: center;
+}
+
+.TopStyle {
+    background-image: url('top_bg.jpg');
+    background-repeat: repeat-x;
+}
+
+    .TopStyle img {
+        margin: 10px;
+    }
+
+.menu {
+    margin: 0 10px 0 10px;
+}
+
+    .menu .title {
+        background-color: Orange;
+        color: White;
+        padding: 5px;
+    }
+
+    .menu .menuItem ul li {
+        list-style-type: none;
+        padding: 2px;
+    }
+
+/*首页布局*/
+#headPart {
+    height: 60px;
+    width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#Main {
+    padding: 5px;
+    width: 960px;
+    margin: 0 auto;
+    clear: both;
+    height: auto;
+}
+
+#leftPart {
+    width: 660px;
+    float: left;
+}
+
+#leftdown {
+    width: 660px;
+    float: left;
+}
+
+#leftPart .Mtitle {
+    width: 600px;
+    float: left;
+    padding-left: 10px;
+    margin-left: 10px;
+    height: 30px;
+}
+
+.Mtitle h1 {
+    font-family: Arial,Helvetica,sans-serif,Microsoft YaHei;
+    vertical-align: baseline;
+}
+
+#leftPart .Mcontent {
+    width: 600px;
+    float: left;
+    padding-left: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+#rightTop {
+    width: 300px;
+    float: left;
+}
+
+#rightPart {
+    width: 300px;
+    float: left;
+    background-color: #FFFFCC;
+}
+
+#footPart {
+    height: 60px;
+    width: 960px;
+    text-align: center;
+    margin: 0 auto;
+    clear: both;
+}
+
+.BlogItem {
+    width: 100%;
+    float: left;
+    margin: 10px 0 10px 0;
+    height: auto;
+}
+
+.blogTitle {
+    width: 75%;
+    position: relative;
+    height: 35px;
+    font-weight: bold;
+    color: Orange;
+    margin: 35px 0 8px 0;
+    font-family: 黑体;
+    text-decoration: none;
+}
+
+.BlogItem .BlogContent {
+    width: 100%;
+    float: left;
+    color: #333;
+}
+
+.BlogItem .memo {
+    width: 100%;
+}
+
+    .BlogItem .memo .author, .blogTime {
+        float: left;
+        width: 200px;
+        margin: 0 5px 0 5px;
+        color: #FFFFFF;
+    }
+
+input[type="submit"] {
+    color: #FFF;
+    background-color: #24E804;
+}
+
+.DetailBlog {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.BlogContent {
+    margin: 0 auto 5px auto;
+    width: 960px;
+    background-color: #CCFFCC;
+}
+
+.BlogTitle {
+    color: Orange;
+    font-size: large;
+    font-weight: bold;
+    margin: 5px 0 5px 0;
+    text-decoration: none;
+}
+
+.BlogInfo {
+    border-width: thin;
+    border-style: dotted;
+    color: #333;
+    border-top-color: #C0C0C0;
+    border-right-color: #C0C0C0;
+    border-bottom-color: #C0C0C0;
+    border-left-color: #C0C0C0;
+    background-color: #FFFFCC;
+    margin: 5px 0 5px 0;
+    height: 45px;
+    padding: 20px 0 0 20px;
+    text-decoration: none;
+}
+
+.ContentDetail {
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.Comment h1 {
+    color: Olive;
+}
+
+A:link {
+    FONT-SIZE: 15pt;
+    COLOR: #9900FF;
+    text-decoration: none;
+}
+
+A:visited {
+    FONT-SIZE: 15pt;
+    COLOR: #9900FF;
+    text-decoration: none;
+}
+
+A:active {
+    FONT-SIZE: 15pt;
+    COLOR: #9900FF;
+    text-decoration: none;
+}
+
+A:hover {
+    FONT-SIZE: 15pt;
+    COLOR: #9900FF;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+.TPostL {
+    margin-left: 150px;
+}

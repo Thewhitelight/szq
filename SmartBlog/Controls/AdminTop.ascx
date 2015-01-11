@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="AdminTop.ascx.cs" Inherits="SmartBlog.Controls.AdminTop" %>
+<asp:Image ID="Image1" runat="server" ImageUrl="~/Images/logo.png" Height="60px"  />

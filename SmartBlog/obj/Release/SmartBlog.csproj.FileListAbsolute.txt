@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\bin\SmartBlog.dll
+C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\bin\SmartBlog.pdb
+C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\bin\CKFinder.dll
+C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\bin\CKFinder.pdb
+C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\obj\Release\SmartBlog.dll
+C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\obj\Release\SmartBlog.pdb
