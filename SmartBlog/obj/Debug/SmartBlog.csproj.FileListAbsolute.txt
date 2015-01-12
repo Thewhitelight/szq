@@ -27,3 +27,11 @@ C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\bin\CKFinder.pdb
 C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\obj\Debug\SmartBlog.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\obj\Debug\SmartBlog.dll
 C:\Users\Administrator\Desktop\SmartBlogV4\SmartBlog\obj\Debug\SmartBlog.pdb
+C:\Users\SZQ\Documents\GitHub\szq\SmartBlog\bin\SmartBlog.dll.config
+C:\Users\SZQ\Documents\GitHub\szq\SmartBlog\bin\SmartBlog.dll
+C:\Users\SZQ\Documents\GitHub\szq\SmartBlog\bin\SmartBlog.pdb
+C:\Users\SZQ\Documents\GitHub\szq\SmartBlog\bin\CKFinder.dll
+C:\Users\SZQ\Documents\GitHub\szq\SmartBlog\bin\CKFinder.pdb
+C:\Users\SZQ\Documents\GitHub\szq\SmartBlog\obj\Debug\SmartBlog.csprojResolveAssemblyReference.cache
+C:\Users\SZQ\Documents\GitHub\szq\SmartBlog\obj\Debug\SmartBlog.dll
+C:\Users\SZQ\Documents\GitHub\szq\SmartBlog\obj\Debug\SmartBlog.pdb
