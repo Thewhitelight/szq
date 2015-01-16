@@ -1,0 +1,10 @@
+E:\C#\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+E:\C#\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+E:\C#\ADO.NET\ADO.NET\obj\x86\Debug\ADO.NET.csprojResolveAssemblyReference.cache
+E:\C#\ADO.NET\ADO.NET\obj\x86\Debug\ADO.NET.FrmMain.resources
+E:\C#\ADO.NET\ADO.NET\obj\x86\Debug\ADO.NET.FrmAdd.resources
+E:\C#\ADO.NET\ADO.NET\obj\x86\Debug\ADO.NET.FrmEdit.resources
+E:\C#\ADO.NET\ADO.NET\obj\x86\Debug\ADO.NET.Properties.Resources.resources
+E:\C#\ADO.NET\ADO.NET\obj\x86\Debug\ADO.NET.csproj.GenerateResource.Cache
+E:\C#\ADO.NET\ADO.NET\obj\x86\Debug\ADO.NET.exe
+E:\C#\ADO.NET\ADO.NET\obj\x86\Debug\ADO.NET.pdb
