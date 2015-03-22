@@ -1,0 +1,6 @@
+C:\Users\SZQ\Desktop\毕业设计\OSHGTP\OSHGTP\bin\OSHGTP.dll.config
+C:\Users\SZQ\Desktop\毕业设计\OSHGTP\OSHGTP\bin\OSHGTP.dll
+C:\Users\SZQ\Desktop\毕业设计\OSHGTP\OSHGTP\bin\OSHGTP.pdb
+C:\Users\SZQ\Desktop\毕业设计\OSHGTP\OSHGTP\obj\Debug\OSHGTP.csprojResolveAssemblyReference.cache
+C:\Users\SZQ\Desktop\毕业设计\OSHGTP\OSHGTP\obj\Debug\OSHGTP.dll
+C:\Users\SZQ\Desktop\毕业设计\OSHGTP\OSHGTP\obj\Debug\OSHGTP.pdb

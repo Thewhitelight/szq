@@ -1,0 +1,126 @@
+﻿body {
+    width: 998px;
+}
+
+#friendweb {
+    width: 998px;
+    height: 50px;
+    line-height: 25px;
+    text-align: center;
+}
+
+#foot {
+    width: 998px;
+    height: 50px;
+    border-top: 1px solid #FF7600;
+    line-height: 30px;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none; /* 指正常的未被访问过的链接*/
+}
+
+a:visited {
+    text-decoration: none; /*指已经访问过的链接*/
+}
+
+a:hover {
+    text-decoration: none; /*指鼠标在链接*/
+}
+
+a:active {
+    text-decoration: none; /* 指正在点的链接*/
+}
+
+div.top {
+    text-align: center;
+}
+
+div.daohang {
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #286FC7;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    padding-top: 8px;
+    color: #FFFFFF;
+}
+
+    div.daohang a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+        div.daohang a:hover {
+            color: #000000;
+            text-decoration: none;
+        }
+
+div.kuang {
+    width: 998px;
+    height: 722px;
+}
+
+div.zuo {
+    width: 268px;
+    height: 600px;
+    border: 1px solid #1C213F;
+    float: left;
+}
+
+div.zuo1 {
+    width: 100%;
+    height: 210px;
+}
+
+div.zuoa {
+    width: 100%;
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    height: 30px;
+    background-color: #1C213F;
+    padding-top: 16px;
+    color: #FFFFFF;
+}
+
+div.zuob {
+    width: 268px;
+    height: 160px;
+}
+
+div.zuos {
+    width: 268px;
+    height: 160px;
+    text-align: center;
+}
+
+div.zuo2 {
+    width: 100%;
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    height: 30px;
+    background-color: #1C213F;
+    padding-top: 16px;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+div.you {
+    width: 268px;
+    height: 600px;
+    float: right;
+    border: 1px solid #1C213F;
+}
+
+div.zhong {
+    width: 456px;
+    height: 600px;
+    border: 1px solid #1C213F;
+    float: left;
+}
